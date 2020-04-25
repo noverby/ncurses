@@ -84,5 +84,5 @@ sources += files(
     'lib_restart.c',
     'lib_refresh.c',
     'lib_erase.c',
-    'lib_driver.c',
+#    'lib_driver.c',
 )

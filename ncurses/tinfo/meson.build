@@ -44,7 +44,7 @@ sources += files(
   'read_entry.c',
   'read_termcap.c',
   'strings.c',
-  'tinfo_driver.c',
+#  'tinfo_driver.c',
   'trim_sgr0.c',
   'use_screen.c',
   'write_entry.c',
